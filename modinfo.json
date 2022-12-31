@@ -1,11 +1,10 @@
 {
     "authors": [
-        "DisabledMallis",
-        "EnabledMallis"
+        "Roshi617"
     ],
-    "description": "A really cool mod made using the NKHook5 MDK",
+    "description": "Changes the Dart Monkey tower price to $50 on Medium difficulty.",
     "discord": "NO DISCORD LINK",
-    "github": "https://github.com/NKHook/NKHook5",
+    "github": "https://github.com/Roshi617/NKHook5-DartPriceChange",
     "name": "DartPriceChange1",
     "version": "1.0.0",
     "website": "https://nkhook.github.io/"
